@@ -34,4 +34,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Resources
+=================
+For project 2 good.html used background from:
+https://heropatterns.com/
+
 
