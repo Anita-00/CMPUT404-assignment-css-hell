@@ -6,8 +6,8 @@ body {
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 	background: #0a451a;	
 	background-image:url('images/stars.gif');
-	
 }
+
 div {
 	padding: 10px;
 }
@@ -30,11 +30,10 @@ img{
 	text-align: center;
 	padding: 10px;
 }
-.about-me {
-	
+.about-me {	
 	color: orange;
-	 
  }
+
 .history {
 	color: white;
 	background: red;
